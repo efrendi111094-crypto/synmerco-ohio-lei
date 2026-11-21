@@ -394,3 +394,11 @@ Raw GLEIF record excerpts showing each matched LEI with its legal name, legal ad
 - CERT 57269: `{"lei": "549300MONA3L2BDK8Q22", "legalName": "SIGNATURE BANK, NATIONAL ASSOCIATION", "legalAddress": {"city": "TOLEDO", "region": "US-OH", "country": "US"}, "entityStatus": "ACTIVE"}`
 - CERT 58433: `{"lei": "549300Z8EM6P4IUIYG50", "legalName": "Waterford Bank, N.A.", "legalAddress": {"city": "Toledo", "region": "US-OH", "country": "US"}, "entityStatus": "ACTIVE"}`
 - CERT 59378: `{"lei": "254900S59ZHI2UFM9J76", "legalName": "Erebor Bank, National Association", "legalAddress": {"city": "Columbus", "region": "US-OH", "country": "US"}, "entityStatus": "ACTIVE"}`
+
+## Data files
+
+```synmerco-data
+34b1ab37c29d85e5191e213187e1d4f809b06129c83a5c00cc4a9f00b3914f23 oh-bank-lei-pull1.csv
+34b1ab37c29d85e5191e213187e1d4f809b06129c83a5c00cc4a9f00b3914f23 oh-bank-lei-pull2.csv
+34b1ab37c29d85e5191e213187e1d4f809b06129c83a5c00cc4a9f00b3914f23 oh-bank-lei-pull3.csv
+```
