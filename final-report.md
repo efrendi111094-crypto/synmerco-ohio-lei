@@ -8,6 +8,24 @@ Three timed pulls, 24 hours apart. Pull 1: 19 Nov 2026 12:53 WIB (note 12:54:49 
 
 FDIC BankFind, /banks/institutions, filters STALP:OH AND ACTIVE:1, sort ASSET descending, fields NAME, CITY, CERT, ASSET, limit 40. 155 active Ohio banks in total; these are the 40 largest. Raw rows as returned:
 
+Raw response metadata — FDIC BankFind query https://api.fdic.gov/banks/institutions?filters=STALP:OH%20AND%20ACTIVE:1&fields=NAME,CITY,CERT,ASSET&sort_by=ASSET&sort_order=DESC&limit=40&format=json | Retrieved: 2026-11-19T05:53:05Z | HTTP 200:
+
+```json
+{
+  "meta": {
+    "total": 155,
+    "parameters": {
+      "filters": "STALP:OH AND ACTIVE:1",
+      "fields": "NAME,CITY,CERT,ASSET",
+      "limit": "40"
+    }
+  },
+  "totals": {
+    "count": 155
+  }
+}
+```
+
 | CERT | NAME | CITY | ASSET |
 |---:|---|---|---:|
 | 384 | The Ohio Valley Bank Company | Gallipolis | 1646225 |
