@@ -1,0 +1,41 @@
+CERT,NAME,CITY,ASSET,lei,gleif legal name,gleif city,gleif region,entity status,match rule
+384,The Ohio Valley Bank Company,Gallipolis,1646225,549300JQGT4VX22XJ495,The Ohio Valley Bank Company,Gallipolis,US-OH,ACTIVE,exact name
+628,"JPMorgan Chase Bank, National Association",Columbus,4091315000,7H6GLXDRUGQFU57RNE97,"JPMorgan Chase Bank, National Association",Columbus,US-OH,ACTIVE,exact name
+5962,Sutton Bank,Attica,1740659,549300KYZ21NWSUOYP36,Sutton Bank,Attica,US-OH,ACTIVE,exact name
+5969,The Farmers & Merchants State Bank,Archbold,3490494,254900LDNBFL67R4FW27,The Farmers & Merchants State Bank,ARCHBOLD,US-OH,ACTIVE,exact name
+6531,The Citizens National Bank of Bluffton,Bluffton,1103400,549300HNMUG8WS7JLL28,The Citizens National Bank of Bluffton,Bluffton,US-OH,ACTIVE,exact name
+6540,The Farmers National Bank of Canfield,Canfield,7159502,549300YNUT7D0FWKU636,The Farmers National Bank Of Canfield,Canfield,US-OH,ACTIVE,exact name
+6544,Peoples Bank,Marietta,9530050,,,,,,no match
+6548,U.S. Bank National Association,Cincinnati,705554946,6BYL5QZYBDK8S7L73M02,U.S. Bank National Association,Cincinnati,US-OH,ACTIVE,exact name
+6560,The Huntington National Bank,Columbus,283073605,2WHM8VNJH63UN14OL754,The Huntington National Bank,Columbus,US-OH,ACTIVE,exact name
+6600,First Financial Bank,Cincinnati,22351293,MV4O55SH8HO6KQSGW013,First Financial Bank,Cincinnati,US-OH,ACTIVE,exact name
+6605,The Merchants National Bank,Hillsboro,1266936,254900PJ63T7KFSHAV90,The Merchants National Bank,Hillsboro,US-OH,ACTIVE,exact name
+6623,LCNB National Bank,Lebanon,2219306,549300Q55VW95EP3CM33,LCNB National Bank,Lebanon,US-OH,ACTIVE,exact name
+6636,THE VINTON COUNTY NATIONAL BANK,Mcarthur,1588792,54930087JNDLPJWOLV11,THE VINTON COUNTY NATIONAL BANK,Mcarthur,US-OH,ACTIVE,exact name
+6653,The Park National Bank,Newark,12608562,549300CEHN5CVC6INV48,The Park National Bank,Newark,US-OH,ACTIVE,exact name
+6672,"Fifth Third Bank, National Association",Cincinnati,299177000,QFROUN1UWUYU0DVIWD51,"Fifth Third Bank, National Association",Cincinnati,US-OH,ACTIVE,exact name
+9139,"The Commercial and Savings Bank of Millersburg, Ohio",Millersburg,1295187,254900VHR12KN8C3F913,"THE COMMERCIAL AND SAVINGS BANK OF MILLERSBURG, OHIO",Millersburg,US-OH,ACTIVE,exact name
+9437,First State Bank,Winchester,1240816,,,,,,no match
+9457,The North Side Bank and Trust Company,Cincinnati,1172039,,,,,,no match
+9463,Unified Bank,Martins Ferry,871724,2549001ZX3163R62TB83,UNIFIED BANK,Martins Ferry,US-OH,ACTIVE,exact name
+11860,The Killbuck Savings Bank Company,Killbuck,953780,,,,,,no match
+12969,The Union Bank Company,Columbus Grove,1443930,254900BDGU9FU91PQA51,THE UNION BANK COMPANY,COLUMBUS GROVE,US-OH,ACTIVE,exact name
+12978,The Richwood Banking Company,Richwood,1296076,549300F263I3XPN55P35,The Richwood Banking Company,Richwood,US-OH,ACTIVE,exact name
+12982,Civista Bank,Sandusky,4286454,549300H8JJI69WD7I525,Civista Bank,Sandusky,US-OH,ACTIVE,exact name
+13339,The State Bank and Trust Company,Defiance,1612519,UBNR8NKAK8J9JL4NZF88,The State Bank and Trust Company,Defiance,US-OH,ACTIVE,exact name
+13341,The Croghan Colonial Bank,Fremont,1414784,5493004F1BOBD3SG7P54,THE CROGHAN COLONIAL BANK,FREMONT,US-OH,ACTIVE,exact name
+17534,KeyBank National Association,Cleveland,188555486,HUX2X73FUCYHUVH1BK78,KeyBank National Association,Cleveland,US-OH,ACTIVE,exact name
+19482,Consumers National Bank,Minerva,1279390,549300E0P87HTQVFQH08,Consumers National Bank,Minerva,US-OH,ACTIVE,exact name
+27998,Guardian Savings Bank,West Chester,1394713,549300ENNFGLHCMQ1U82,Guardian Savings Bank,West Chester,US-OH,ACTIVE,exact name
+28263,"CFBank, National Association",Columbus,2167338,549300ZGCIDP1G72QO72,"CFBank, National Association",Columbus,US-OH,ACTIVE,exact name
+29011,Mechanics Bank,Mansfield,896438,254900048S1FLI3G2922,MECHANICS BANK,MANSFIELD,US-OH,ACTIVE,exact name
+29488,First Federal Savings and Loan Association of Lakewood,Lakewood,2942482,549300DPWFIO1S3DF358,First Federal Savings And Loan Association Of Lakewood,Lakewood,US-OH,ACTIVE,exact name
+29787,"First Federal Community Bank, National Association",Dover,994585,254900EYC7A87UC2J682,"First Federal Community Bank, National Association",Dover,US-OH,ACTIVE,exact name
+29847,Main Street Bank Corp.,Wooster,1553716,549300WLYZ63QPFTDP84,MAIN STREET BANK CORP.,WOOSTER,US-OH,ACTIVE,exact name
+30012,Third Federal Savings and Loan Association of Cleveland,Cleveland,18062658,5493008CPTDVOS570626,Third Federal Savings And Loan Association Of Cleveland,Cleveland,US-OH,ACTIVE,exact name
+32242,"Liberty Savings Bank, F.S.B.",Wilmington,1111698,549300MU2YI0HXIT3257,"Liberty Savings Bank, F.S.B.",Wilmington,US-OH,ACTIVE,exact name
+32296,Union Savings Bank,Cincinnati,4019642,549300HFBEONQN2CK447,Union Savings Bank,Cincinnati,US-OH,ACTIVE,exact name
+32612,"NATIONAL COOPERATIVE BANK, N.A.",Hillsboro,4329072,5493001GAASLCSP1PB64,"NATIONAL COOPERATIVE BANK, N.A.",Hillsboro,US-OH,ACTIVE,exact name
+57269,"Signature Bank, National Association",Toledo,1309420,549300MONA3L2BDK8Q22,"SIGNATURE BANK, NATIONAL ASSOCIATION",TOLEDO,US-OH,ACTIVE,exact name
+58433,"Waterford Bank, N.A.",Toledo,1771847,549300Z8EM6P4IUIYG50,"Waterford Bank, N.A.",Toledo,US-OH,ACTIVE,exact name
+59378,"Erebor Bank, N.A.",Columbus,4664972,254900S59ZHI2UFM9J76,"Erebor Bank, National Association",Columbus,US-OH,ACTIVE,exact name
